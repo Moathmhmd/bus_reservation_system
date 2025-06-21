@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905672283080",
+    "project_id": "busreservationsystem-f9328",
+    "storage_bucket": "busreservationsystem-f9328.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905672283080:android:68c00ce92ac5374795a6fd",
+        "android_client_info": {
+          "package_name": "com.example.bus_reservation_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSLP9o2G2ll4Y0WLSw21U7jc6ftFiLj1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
