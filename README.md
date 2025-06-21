@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Login 
+Login
 Karam1@gmail.com for user
 Ahmad1@gmail.com for admin
 Ali1@gmail.com for driver
